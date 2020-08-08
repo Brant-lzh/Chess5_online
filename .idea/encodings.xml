@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/client/Chess5GUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/Chess5Pane.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/Chess5Utils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/ClientInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/AlphaAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Chess5Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Chess5ServerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Competition.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/MessageType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Point.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/ServerConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/week_13_server1/ServerInfo.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
