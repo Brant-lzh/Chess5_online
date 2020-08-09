@@ -18,7 +18,7 @@ public class ClientConfig {
 			= new InetSocketAddress("127.0.0.1", 6000);
 	//本地的地址
 	public static final SocketAddress LOCAL_ADDR
-			= new InetSocketAddress("127.0.0.1", 5007);
+			= new InetSocketAddress("127.0.0.1", 5008);
 
 	public static final int ACTION_TYPE_ADD = 1;//新下棋
 	public static final int ACTION_TYPE_DEL = 0;//悔棋
